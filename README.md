@@ -1,3 +1,6 @@
+![_za_kompom_yapfiles ru](https://user-images.githubusercontent.com/89729578/210452510-ffcd7ebe-36f8-4bde-930b-4d4b5e9ca92b.gif)
+
+
 ### Привет всем! 👋
 
 Меня зовут Григорий и я QA engineer. 
