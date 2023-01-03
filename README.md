@@ -11,6 +11,7 @@
 1. Автотесты на Puthon + Selenium: https://github.com/sonyablade3365/python_autotests  .
 2. Автотесты на JS + Cypress: https://github.com/sonyablade3365/cypress_js .
 3. Игра "Крестики-Нолики" на HTML + CSS + JS: https://github.com/sonyablade3365/tic_tac_toe.
+4. Автотесты на JS + Postman : https://github.com/sonyablade3365/postman_auto.
 <!--
 **sonyablade3365/sonyablade3365** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
